@@ -1,6 +1,6 @@
-# Blink App 
+# Blink 
 
-The start of an open soruce, interactive, social platform to enable creators to add hyperlinks/images at set invervals to points within a vidio.
+The vision for Blink is an interactive, social platform to enable creators to add hyperlinks/images at set intervals to points within a video.
 
 ## Built With
 
